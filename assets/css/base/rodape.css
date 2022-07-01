@@ -28,6 +28,11 @@
     .rodape {
         font-size: 1.125rem;
     }
+
+    .rodape__social {
+        font-size: 2rem;
+    }
+
 }
 @media screen and (min-width: 768px) {
     .rodape {
