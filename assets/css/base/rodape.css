@@ -1,16 +1,27 @@
+.fa-brands {
+    color: #fdfdfd;
+}
+
 .rodape {
     background: #bfbfbf;
     color: #fdfdfd;
-    font-size: 1rem;
     height: 5rem;
     text-align: center;
 }
 
+.rodape__direitos {
+    font-size: 1rem;
+}
+
 .rodape__social {
-    background-color: red;
+    background: #bfbfbf;
     cursor: pointer;
-    margin-bottom: 2rem;
     text-align: center;
+}
+
+.rodape__social a {
+    margin-inline: 1rem;
+    text-decoration: none;
 }
 
 

@@ -26,9 +26,7 @@ Site "Fruta & Fruto", criado durante Trilha Front-End, curso:
 
 ###### Criei o arquivo "style.css", importando a url de todos os arquivos *.css, deixando o <head> mais organizado.
 
-###### Eu não modfiquei o logo ou coloquei links, pois a intenção neste projeto não era esta, porém segue como projeto para o futuro!.
-
-###### Não entendo o porquê, mas adicionei ao footer minhas redes sociais, que não aparecem, mesmo retirando o arquivo "normalize"... Aceito dicas e conselhos!
+###### Eu não modfiquei o logo ou coloquei links, pois a intenção neste projeto não era esta, porém segue como projeto para o futuro!
 
 ##
 
