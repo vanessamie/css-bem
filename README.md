@@ -49,6 +49,3 @@ https://www.alura.com.br/artigos/como-lidar-com-os-limites-de-resolucao-em-sites
 
 - Criando componentes CSS com o padrão BEM:
 https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem
-
-
-
